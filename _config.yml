@@ -12,8 +12,8 @@ twitter_username:   HeiswayiNrird # Your Twitter username here
 github_username:    heiswayi # Your GitHub username here
 
 # Site Settings
-url:                https://mengheangrat.github.io/ # main url
-baseurl:            /mengheangrat # for gh-pages
+url:                https://mengheangrat.github.io # main url
+baseurl:            /matrix # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Phnom_Penh # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
