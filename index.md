@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Summary
 
-[Link to another page](./another-page.html).
+I have been working in mobile app development more than 3 three years. I developed more than 7 projects including Native App and Cross Platform. More than three years working in software development, I am not only coding but I am leading and managing team with Agile Scrum methodology also.
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Asia Euro University
 
-# Header 1
+2012 - 2015
+> Bachelor's degree, Computer Science
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Paññāsāstra University of Cambodia
 
-## Header 2
+2010 - 2015
+> Bachelor's degree, Teaching English to Speakers of Other Languages
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Experience
 
-### Header 3
+### Tech Lead at [Mäd](http://workwithmad.com)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+July 2017  -  Present
+> Lead iOS Team
+> Lead Android Team
+> Lead React Native Team.
+> Research on new technologies, especialy on project architecture (MVVM, MVP, MVC..)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Tech Lead at  Nanita Tech Co, Ltd.
 
-#### Header 4
+March 2016  -  July 2017 
+> Lead iOS Team
+> Lead Android Team.
+> Research on new technologies, especialy on project architecture (MVVM, MVP, MVC..)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### iOS Developer at [Pathmazing](http://pathmazing.com)
 
-##### Header 5
+June 2015  -  March 2016
+> Develop iOS app with Swift
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Project
 
-###### Header 6
+Next Week will update more. 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
