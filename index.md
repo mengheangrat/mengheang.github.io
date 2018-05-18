@@ -6,6 +6,7 @@ layout: default
 
 I have been working in mobile app development more than 3 three years. I developed more than 7 projects including Native App and Cross Platform. More than three years working in software development, I am not only coding but I am leading and managing team with Agile Scrum methodology also.
 
+
 ## Education
 
 ### Asia Euro University
@@ -17,6 +18,7 @@ I have been working in mobile app development more than 3 three years. I develop
 
 2010 - 2015
 > Bachelor's degree, Teaching English to Speakers of Other Languages
+
 
 ## Experience
 
@@ -39,6 +41,7 @@ March 2016  -  July 2017 
 
 June 2015  -  March 2016
 > Develop iOS app with Swift
+
 
 ## Project
 
