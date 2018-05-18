@@ -25,16 +25,16 @@ I have been working in mobile app development more than 3 three years. I develop
 ### Tech Lead at [Mäd](http://workwithmad.com)
 
 July 2017  -  Present
-> Lead iOS Team
-> Lead Android Team
-> Lead React Native Team.
+> Lead iOS Team <br>
+> Lead Android Team<br>
+> Lead React Native Team.<br>
 > Research on new technologies, especialy on project architecture (MVVM, MVP, MVC..)
 
 ### Tech Lead at  Nanita Tech Co, Ltd.
 
-March 2016  -  July 2017 
-> Lead iOS Team
-> Lead Android Team.
+March 2016  -  July 2017 <br>
+> Lead iOS Team<br>
+> Lead Android Team.<br>
 > Research on new technologies, especialy on project architecture (MVVM, MVP, MVC..)
 
 ### iOS Developer at [Pathmazing](http://pathmazing.com)
